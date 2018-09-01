@@ -629,5 +629,14 @@
 		"lang": "vi",
 		"contentURL": "https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt",
 		"supportURL": "https://abpvn.com/"
+	},
+	"BRA-0": {
+		"content": "filters",
+		"group": "regions",
+		"off": true,
+		"title": "BRA: EasyList Brasil",
+		"lang": "pt",
+		"contentURL": "https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt",
+		"supportURL": "https://easylistbrasil.github.io/"
 	}
 }
